@@ -8,7 +8,7 @@ My work focuses on building reliable, scalable, and maintainable systems.
 🔧 Tech Stack & Experience
 
 🖥️ System Integration & Hosting
-Server administration (Linux & Windows)
+Server administration (Linux & Windows) <br>
 Virtualization & network infrastructure
 Web hosting and reverse proxies (Nginx, Apache)
 
