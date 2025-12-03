@@ -1,5 +1,5 @@
-👋 Hi, I'm Elton Topalli
-IT Specialist for System Integration | Hosting & Infrastructure Enthusiast
+👋 Hi, I'm Elton Topalli <br>
+IT Specialist for System Integration | Hosting & Infrastructure Enthusiast <br>
 
 I'm an IT professional (Fachinformatiker für Systemintegration) specializing in hosting environments, automation, and containerized infrastructure.
 My work focuses on building reliable, scalable, and maintainable systems.
@@ -9,20 +9,20 @@ My work focuses on building reliable, scalable, and maintainable systems.
 
 🖥️ System Integration & Hosting
 Server administration (Linux & Windows) <br>
-Virtualization & network infrastructure
-Web hosting and reverse proxies (Nginx, Apache)
+Virtualization & network infrastructure <br>
+Web hosting and reverse proxies (Nginx, Apache) <br>
 
 ⚙️ Automation & Infrastructure as Code
-Ansible — Automated provisioning, configuration management, deployment workflows
-Shell scripting — Tooling, maintenance, environment setup
+Ansible — Automated provisioning, configuration management, deployment workflows <br>
+Shell scripting — Tooling, maintenance, environment setup <br> 
 
 🐳 Containerization & DevOps
-Docker — Container builds, orchestration basics, CI/CD integration
-Docker Compose for local development and small multi-service environments
+Docker — Container builds, orchestration basics, CI/CD integration <br> 
+Docker Compose for local development and small multi-service environments <br>
 
 ☕ Software Development
-Java — Backend logic, small utilities & tools
-REST APIs, simple microservice structures
+Java — Backend logic, small utilities & tools <br>
+REST APIs, simple microservice structures <br>
 
 
 <!--
